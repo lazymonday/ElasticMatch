@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElasticMatch", "ElasticMatch\ElasticMatch.csproj", "{32E58C67-66E1-421D-A90F-38C470C17653}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElasticMatch.test", "ElasticMatch.test\ElasticMatch.test.csproj", "{838DC1B6-48F3-46D9-BFD6-614F435BB33D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32E58C67-66E1-421D-A90F-38C470C17653}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32E58C67-66E1-421D-A90F-38C470C17653}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32E58C67-66E1-421D-A90F-38C470C17653}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32E58C67-66E1-421D-A90F-38C470C17653}.Release|Any CPU.Build.0 = Release|Any CPU
+		{838DC1B6-48F3-46D9-BFD6-614F435BB33D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{838DC1B6-48F3-46D9-BFD6-614F435BB33D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{838DC1B6-48F3-46D9-BFD6-614F435BB33D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{838DC1B6-48F3-46D9-BFD6-614F435BB33D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
